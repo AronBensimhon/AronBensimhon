@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ML, Advance Data Analysis and AI based search engine**
 
-- ⚡ Fun fact **I think i'm funny**
+- ⚡ Fun fact **sometime i play chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
