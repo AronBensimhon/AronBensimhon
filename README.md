@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aron Bensimhon</h1>
-<h3 align="center">Data Engineer, and a 4th year Industrial Engineering student, with Data Science specialty, in Ariel University</h3>
+<h3 align="center">Data Engineer, and a 4th year Industrial Engineering student, with a major in Data Science, in Ariel University</h3>
 
-- 🌱 I’m currently learning **ML, Advance Data Analysis and AI based search engine**
+- 🌱 I’m currently learning **ML, Advance Data Analysis and Deep Learning**
 
 - ⚡ Fun fact : **I play chess** ♟️
 
